@@ -28,9 +28,7 @@ profile_xiyou/西游记-孙悟空.jsonl
 
 ## 2 RoleGPT
 
-修改相关参数
-
-![image-20231011130003053](C:\Users\70214\AppData\Roaming\Typora\typora-user-images\image-20231011130003053.png)
+修改相关参数user_name、world、screenplay_name。
 
 执行RoleGPT/rolegpt.py，即可获取风格化的general原始数据集。
 
